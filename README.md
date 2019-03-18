@@ -1,1 +1,1 @@
-# RAN
+Be sure to download the most recent version to gurantee accuracy. This dataset contains the trained RAN models, ten test samples with MRI data, corresponding segmentation ground truth, and python codes for segmentation performance evaluation.
